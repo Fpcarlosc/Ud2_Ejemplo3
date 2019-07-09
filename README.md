@@ -16,3 +16,5 @@ Donde podemos ver que el nombre de la imagen es _grand_canyon_ y se puede encont
 Notad cómo accedemos al recurso _drawable_ usando el símbolo @.
 
 Si vamos cambiando entre _center_, _centerCrop_ y _centerInside_tanto en el atributo _scaleType_ podremos ver la diferencia entre ellos.
+
+_Imagen de Pixabay.com (Licencia CC0)_
