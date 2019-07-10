@@ -1,7 +1,7 @@
 # Ud2_Ejemplo3
 _Ejemplo 3 de la Unidad 2._ 
 
-Vemos la diferencia entre _center_, _centerCrop_ y _centerInside_, para ello sólo hemos de fijarnos en el fichero _main_activity.xml_
+Vemos la diferencia entre _center_, _centerCrop_ y _centerInside_, para ello sólo hemos de fijarnos en el fichero _activity_main.xml_
 y en concreto en las siguientes líneas:
 
 ```
